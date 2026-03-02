@@ -1,0 +1,10 @@
+{
+  "name": "wereldvantabak-mail-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal Vercel backend API for WereldVanTabak.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
