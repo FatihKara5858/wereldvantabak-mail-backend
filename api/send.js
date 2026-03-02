@@ -36,7 +36,7 @@ module.exports = async (req, res) => {
       },
       body: JSON.stringify({
         from: 'onboarding@resend.dev',
-        to: ['DEINE_PRIVATE_EMAIL_HIER'],
+        to: ['fatih-karabacak@gmx.de'],
         subject: 'Resend Test',
         text: 'Wenn diese Mail ankommt, funktioniert Resend korrekt.',
       }),
